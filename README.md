@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odjidja
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C language and Python at ALX Software Engineering
+- 🌱 I’m currently learning Javascrit && Python
 - 💞️ I’m looking to collaborate on any project that will make life easier
 - 📫 How to reach me: tfelixodjidja@gmail.com
 
